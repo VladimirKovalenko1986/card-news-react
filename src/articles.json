@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "topic": "ASUS TUF Gaming F15",
+    "text": "Ноутбук ASUS TUF Gaming F15 (2022) FX507ZC4-HN087 (90NR0GW1-M00HJ0) Mecha Gray / 15.6 IPS Full HD 144 Гц / Intel Core i5-12500H / RAM 16 ГБ / SSD 512 ГБ / nVidia GeForce RTX 3050"
+  },
+
+  {
+    "id": 2,
+    "topic": "Acer Aspire 7",
+    "text": "Ноутбук Acer Aspire 7 A715-76G-560W (NH.QMMEU.002) Charcoal Black / Intel Core i5-12450H / RAM 16 ГБ / SSD 512 ГБ / nVidia GeForce RTX 3050, 4 ГБ / Подсветка клавиатуры"
+  },
+
+  {
+    "id": 3,
+    "topic": "Lenovo IdeaPad Slim 5",
+    "text": "Ноутбук Lenovo IdeaPad Slim 5 16IAH8 (83BG001ARA) Cloud Grey / 16 IPS WUXGA / Intel Core i5-12450H / RAM 16 ГБ / SSD 512 ГБ / Подсветка клавиатуры / Зарядка через Type-C"
+  },
+
+  {
+    "id": 4,
+    "topic": "Apple MacBook Air 13",
+    "text": "Ноутбук Apple MacBook Air 13' M1 8/256GB 2020 (MGN63) Space Gray"
+  },
+
+  {
+    "id": 5,
+    "topic": "HP Pavilion 15",
+    "text": "Ноутбук HP Pavilion 15-eg3045ua (9H8S5EA) Fog Blue / Intel Core i5-1335U / RAM 16 ГБ / SSD 512 ГБ /"
+  },
+
+  {
+    "id": 6,
+    "topic": "Lenovo IdeaPad 3",
+    "text": "Ноутбук Lenovo IdeaPad 3 15IAU7 (82RK011NRA) Arctic Grey / 15.6' IPS Full HD / Intel Core i5-1235U / RAM 16 ГБ / SSD 512 ГБ / Подсветка клавиатуры"
+  },
+
+  {
+    "id": 7,
+    "topic": "ASUS TUF Gaming A15",
+    "text": "Ноутбук ASUS TUF Gaming A15 (2023) FA507NU-LP131 (90NR0EB8-M00EK0) Jaeger Gray / 15.6' IPS Full HD 144 Гц / AMD Ryzen 5 7535HS / RAM 16 ГБ / SSD 1 ТБ / nVidia GeForce RTX 4050"
+  },
+
+  {
+    "id": 8,
+    "topic": "Lenovo IdeaPad 1",
+    "text": "Ноутбук Lenovo IdeaPad 1 15AMN7 (82VG00HHRA) Cloud Grey / 15.6 IPS Full HD / AMD Ryzen 3 7320U / RAM 16 ГБ / SSD 512 ГБ"
+  },
+
+  {
+    "id": 9,
+    "topic": "Acer Aspire 3",
+    "text": "Ноутбук Acer Aspire 3 A315-44P-R6F9 (NX.KSJEU.004) Pure Silver / AMD Ryzen 7 5700U / RAM 8 ГБ / SSD 512 ГБ"
+  },
+
+  {
+    "id": 10,
+    "topic": "Acer Nitro 5",
+    "text": "Ноутбук Acer Nitro 5 AN515-46-R8TS (NH.QGXEU.00D) Obsidian Black / 15.6” IPS Full HD 144 Гц / AMD Ryzen 5 6600H / RAM 16 ГБ / SSD 512 ГБ / nVidia GeForce RTX 3050, 4 ГБ"
+  }
+]
